@@ -1,0 +1,15 @@
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\bin\Debug\net9.0\NumericDataTypes.exe
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\bin\Debug\net9.0\NumericDataTypes.deps.json
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\bin\Debug\net9.0\NumericDataTypes.runtimeconfig.json
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\bin\Debug\net9.0\NumericDataTypes.dll
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\bin\Debug\net9.0\NumericDataTypes.pdb
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\NumericDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\NumericDataTypes.AssemblyInfoInputs.cache
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\NumericDataTypes.AssemblyInfo.cs
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\NumericDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\NumericDataTypes.sourcelink.json
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\NumericDataTypes.dll
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\refint\NumericDataTypes.dll
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\NumericDataTypes.pdb
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\NumericDataTypes.genruntimeconfig.cache
+C:\Users\Windows\Desktop\RLearning_Csharp\NumericDataTypes\obj\Debug\net9.0\ref\NumericDataTypes.dll
